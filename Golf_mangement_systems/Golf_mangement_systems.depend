@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1543780200 source:c:\users\tri2k\desktop\golf_management_systems\golf_mangement_systems\main.cpp
+	<iostream>
+	"Player_systems.h"
+	"Staff_systems.h"
+
+1543779570 c:\users\tri2k\desktop\golf_management_systems\golf_mangement_systems\include\player_systems.h
+	"Player.h"
+	"Rental.h"
+
+1543822404 c:\users\tri2k\desktop\golf_management_systems\golf_mangement_systems\include\player.h
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"Scorecard.h"
+	"Rental.h"
+
+1543822096 c:\users\tri2k\desktop\golf_management_systems\golf_mangement_systems\include\scorecard.h
+	<iostream>
+
+1543822344 c:\users\tri2k\desktop\golf_management_systems\golf_mangement_systems\include\rental.h
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+
+1543779319 c:\users\tri2k\desktop\golf_management_systems\golf_mangement_systems\include\staff_systems.h
+	"Rental.h"
+	"Scorecard.h"
+
